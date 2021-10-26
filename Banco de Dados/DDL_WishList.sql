@@ -13,6 +13,7 @@ GO
 
 CREATE TABLE Desejos (
 idDesejo TINYINT PRIMARY KEY IDENTITY (1,1),
-descricao VARCHAR (256) NOT NULL unique,
+idUsuario TINYINT FOREIGN KEY REFERENCES USUARIO (idUsuario),
+descricao VARCHAR (256) NOT NULL,
 );
 GO

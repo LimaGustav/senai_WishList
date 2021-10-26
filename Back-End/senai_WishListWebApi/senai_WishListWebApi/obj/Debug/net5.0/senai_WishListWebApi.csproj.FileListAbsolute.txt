@@ -61,3 +61,8 @@ C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishLis
 C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\obj\Debug\net5.0\ref\senai_WishListWebApi.dll
 C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\obj\Debug\net5.0\senai_WishListWebApi.pdb
 C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\obj\Debug\net5.0\senai_WishListWebApi.genruntimeconfig.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\bin\Debug\net5.0\senai_WishListWebApi.xml
+C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\gugag\OneDrive\Área de Trabalho\Senai_\WishList\Back-End\senai_WishListWebApi\senai_WishListWebApi\obj\Debug\net5.0\senai_WishListWebApi.xml

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>senai_WishListWebApi</name>
+    </assembly>
+    <members>
+        <member name="M:senai_WishListWebApi.Interfaces.IDesejoRepository.ListarTodos">
+            <summary>
+            Lista todos os desejos cadastrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:senai_WishListWebApi.Interfaces.IDesejoRepository.Cadastrar(senai_WishListWebApi.Domains.Desejo)">
+            <summary>
+            Cadastra um novo desejo
+            </summary>
+            <param name="novoDesejo">Objeto Desejo a ser cadastrado</param>
+            <returns></returns>
+        </member>
+        <member name="M:senai_WishListWebApi.Interfaces.IUsuarioRepository.ListarTodos">
+            <summary>
+            Lista todos os usuários cadastrados
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

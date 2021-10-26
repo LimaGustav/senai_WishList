@@ -1,0 +1,63 @@
+{
+	"info": {
+		"_postman_id": "18063289-892d-40c6-b5a8-6732766e27cb",
+		"name": "senai_WishList",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Desejo",
+			"item": [
+				{
+					"name": "Desejos.ListarTodos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/desejos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"desejos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Desejos.Cadastrar",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Descricao\":\"Ser uma girafa\",\r\n    \"IdUsuario\": 2\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/desejos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"desejos"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

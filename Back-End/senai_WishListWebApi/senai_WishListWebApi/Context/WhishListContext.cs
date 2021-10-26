@@ -7,13 +7,13 @@ using senai_WishListWebApi.Domains;
 
 namespace senai_WishListWebApi.Context
 {
-    public partial class WhishListContext : DbContext
+    public partial class WishListContext : DbContext
     {
-        public WhishListContext()
+        public WishListContext()
         {
         }
 
-        public WhishListContext(DbContextOptions<WhishListContext> options)
+        public WishListContext(DbContextOptions<WishListContext> options)
             : base(options)
         {
         }

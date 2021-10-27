@@ -48,13 +48,11 @@ export default class Desejos extends Component {
   AtualizarDesricao = async (event) => {
     //Nome titulo > valor input.
     await this.setState({ descricao: event.target.value })
-    console.log(this.state.descricao)
 }
 
 AtualizarId = async (event) => {
   //Nome titulo > valor input.
   await this.setState({ idUsuario: event.target.value })
-  console.log(this.state.idUsuario)
 }
 
   componentDidMount() {

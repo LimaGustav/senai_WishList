@@ -92,8 +92,8 @@ AtualizarId = async (event) => {
           <section>
             <table>
               <thead>
-                <th>Id</th>
-                <th>Desejo</th>
+                <tc>Id</tc>
+                <tc>Desejo</tc>
               </thead>
 
               <tbody>

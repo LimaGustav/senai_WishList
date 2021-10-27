@@ -23,6 +23,17 @@ namespace senai_WishListWebApi
                     options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
                     options.SerializerSettings.NullValueHandling = NullValueHandling.Ignore;
                 });
+            
+            services.AddCors(options =>
+                {
+                    options.AddPolicy("CorsPolicy",
+                                    builder =>
+                                    {
+                                        builder.WithOrigins("http://localhost:3000")
+                                        .AllowAnyHeader()
+                                        .AllowAnyMethod();
+                                    });
+                });
 
             services.AddSwaggerGen(c =>
             {
@@ -52,6 +63,8 @@ namespace senai_WishListWebApi
             });
 
             app.UseRouting();
+
+            app.UseCors("CorsPolicy");
 
             app.UseEndpoints(endpoints =>
             {

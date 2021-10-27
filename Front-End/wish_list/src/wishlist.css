@@ -11,7 +11,7 @@
 
 body{
 
-    background-image: url(../wishList/Layouts/imagens_front/Lista\ de\ Desejos\ Alta\ fidelidade.png);
+    background-image: url(../src/Layouts/imagens_front/Lista-de-Desejos-Alta-fidelidade.png);
     display: flex;
     justify-content: center;
 }
@@ -68,8 +68,13 @@ input{
 
 .botaoCadastrar{
 
-    background-color: #A5FFB9;
-    margin-left: 55px;
+    width: 189.1px;
+    height: 48px;
+
+    background: #A5FFB9;
+    border-radius: 7px;
+
+    margin-top: 34px;
 
 }
 

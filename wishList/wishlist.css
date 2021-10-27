@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Sail&display=swap%27');
+
 
 * {
     margin: 0%;
@@ -10,17 +12,25 @@
 body{
 
     background-image: url(../wishList/Layouts/imagens_front/Lista\ de\ Desejos\ Alta\ fidelidade.png);
+    display: flex;
+    justify-content: center;
 }
 
 .logo{
     
     width: 100px;
     height: 100px;
-    background-color: black;
+    margin-left: 51px;
+   
 }
 
 #idLogo{
     color: blueviolet;
+    font-family: 'Yellowtail', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 110px;
+    margin-left: 100px;
 }
 
 .fundo{
@@ -29,3 +39,102 @@ body{
     height: 100%;
 }
 
+.cadastroTela{
+
+    width: 506px;
+    height: 341px;
+    left: 467px;
+    margin-top: 45px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    
+
+    background: #FFFFFF;
+}
+
+
+.h2cadastrar{
+
+    font-family: 'Sail', cursive;
+    font-size: 47px;
+    line-height: 54px;
+    margin-top: 38px;
+
+}
+
+input{
+
+    font-family: 'Roboto';
+    margin-top: 39px;
+
+}
+
+.botaoCadastrar{
+
+    background-color: #A5FFB9;
+    margin-left: 55px;
+
+}
+
+.desejosTela{
+
+    width: 710px;
+    height: 433px;
+    
+
+    background: #FFFFFF;
+
+}
+
+.h2desejos{
+
+    font-family: 'Sail', cursive;
+    font-size: 43px;
+    line-height: 50px;
+    margin-top: 20px;
+
+}
+
+.espaco1{
+    display: flex;
+    margin-top: 50px;
+}
+
+.quadrado1{
+
+    width: 18.41px;
+    height: 20.72px;
+    background-color: #DBA2EA;
+}
+
+.escrita1{
+
+    width: 471px;
+    height: 21px;
+    background: #ECEAEA;
+    border-radius: 5px;
+
+}
+
+.quadrado2{
+
+    width: 18.41px;
+    height: 20.72px;
+    background-color: #C7F6B9;
+}
+
+.quadrado3{
+
+    width: 18.41px;
+    height: 20.72px;
+    background-color: #FFFD12;
+}
+
+.quadrado4{
+
+    width: 18.41px;
+    height: 20.72px;
+    background-color:  #5CE1E6
+    ;
+}

@@ -32,10 +32,10 @@
 
 <h2>Integrantes</h2>
 
-* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/LimaGustav">Gustavo Lima</a></p>
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a style="text-decoration: none;" href="https://github.com/LimaGustav">Gustavo Lima</a></p>
 
-* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/ApolloSama">Pedro Cabral</a></p>
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a style="text-decoration: none;" href="https://github.com/ApolloSama">Pedro Cabral</a></p>
 
-* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/Silva-Julia">Julia Silva</a></p>
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a style="text-decoration: none;" href="https://github.com/Silva-Julia">Julia Silva</a></p>
 
-* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/figueirapedro526">Pedro Figueira</a></p>
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a style="text-decoration: none;" href="https://github.com/figueirapedro526">Pedro Figueira</a></p>

@@ -14,6 +14,7 @@
 * html
 * css
 * Figma
+* Git
 
 <h2>Ultilização</h2>
 
@@ -21,9 +22,20 @@
 
 <h3>Passo a passo</h3>
 
+* Clonar o repositório
 * Rodar os Scripts DDM e DML no banco de dados para criação do banco.
 * Alterar a string de conexão no arquivo "WhishListContext". Este arquivo encontra-se na pasta Context dentro da aplicação Back-End (Pasta Back-End).
 * Rodar a API com o comando "<a href="https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet-run">dotnet run</a>".
 * Abrir um cmd dentro da pasta Front-End e rodar o comando "npm install" para instalar a pasta de pacotes do ReactJS e Node.
 * Abrir um cmd dentro da pasta Front-End e rodar o comando "npm start" para iniciar os scripts do ReactJS.
-<p>Com a API e o Front-End rodando já é possível usar a aplicação </p> 
+<p>Com a API e o Front-End rodando já é possível usar a aplicação.</p>
+
+<h2>Integrantes</h2>
+
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/LimaGustav">Gustavo Lima</a></p>
+
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/ApolloSama">Pedro Cabral</a></p>
+
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/Silva-Julia">Julia Silva</a></p>
+
+* <p><img align = "center" alt = "ReactJs" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <a href="https://github.com/figueirapedro526">Pedro Figueira</a></p>

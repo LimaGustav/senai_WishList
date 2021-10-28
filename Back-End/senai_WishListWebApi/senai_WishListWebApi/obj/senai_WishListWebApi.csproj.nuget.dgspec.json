@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\43017102807\\Desktop\\senai_WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj": {}
+    "C:\\Users\\gugag\\OneDrive\\Área de Trabalho\\Senai_\\WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\43017102807\\Desktop\\senai_WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj": {
+    "C:\\Users\\gugag\\OneDrive\\Área de Trabalho\\Senai_\\WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\43017102807\\Desktop\\senai_WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\gugag\\OneDrive\\Área de Trabalho\\Senai_\\WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj",
         "projectName": "senai_WishListWebApi",
-        "projectPath": "C:\\Users\\43017102807\\Desktop\\senai_WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj",
-        "packagesPath": "C:\\Users\\43017102807\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\43017102807\\Desktop\\senai_WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\obj\\",
+        "projectPath": "C:\\Users\\gugag\\OneDrive\\Área de Trabalho\\Senai_\\WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\senai_WishListWebApi.csproj",
+        "packagesPath": "C:\\Users\\gugag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gugag\\OneDrive\\Área de Trabalho\\Senai_\\WishList\\Back-End\\senai_WishListWebApi\\senai_WishListWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\43017102807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gugag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -44,6 +44,8 @@ export default class Desejos extends Component {
       .catch(erro => console.log(erro))
 
       .then(this.ListarDesejos)
+
+      .then(this.limparCampos)
   }
 
   AtualizarDesricao = async (event) => {
@@ -59,6 +61,16 @@ export default class Desejos extends Component {
   componentDidMount() {
     this.ListarDesejos();
   }
+
+  limparCampos = () => {
+    this.setState(
+    {
+    descricao: '',
+    idUsuario: 0,
+    idDesejo: 0
+  })
+
+  } 
 
   render() {
     return (
@@ -78,7 +90,7 @@ export default class Desejos extends Component {
 
                 <form onSubmit={this.CadastrarDesejo}>
 
-                <div>
+                  <div>
                     <input
                       type="number"
                       value={this.state.idUsuario}
@@ -108,25 +120,20 @@ export default class Desejos extends Component {
 
 
           <section>
-            <table>
-              <thead>
-                <tc>Id</tc>
-                <tc>Desejo</tc>
-              </thead>
+            <div className="desejosTela">
 
-              <tbody>
+              <h2 className="h2desejos">Desejos</h2>
                 {
                   this.state.listaDesejos.map((desejo) => {
                     return (
-                      <tr key={desejo.idDesejo}>
-                        <td>{desejo.idDesejo}</td>
-                        <td>{desejo.descricao}</td>
-                      </tr>
+                      <div className="espaco1">
+                        <div className="quadrado1">{desejo.idDesejo}</div>
+                        <span className="escrita1">{desejo.descricao}</span>
+                      </div>
                     )
                   })
                 }
-              </tbody>
-            </table>
+            </div>
           </section>
         </main>
       </div >

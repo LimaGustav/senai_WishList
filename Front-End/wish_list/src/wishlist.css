@@ -22,6 +22,10 @@ main {
     align-items: center;
 }
 
+.logo {
+    text-align: center;
+}
+
 
 #idLogo{
     color: blueviolet;
@@ -59,11 +63,20 @@ main {
 
 }
 
+form {
+    text-align: center;
+}
+
 input{
 
     font-family: 'Roboto';
     margin-top: 39px;
-
+    width: 248.32px;
+    height: 30px;
+    background: #ECEAEA;
+    border-radius: 7px;
+    border: none;
+    font-size: 20px;
 }
 
 .botaoCadastrar{
@@ -76,6 +89,12 @@ input{
 
     margin-top: 34px;
 
+    border: none;
+
+}
+
+.botaoCadastrar:hover{
+    cursor: pointer;
 }
 
 .desejosTela{
@@ -85,7 +104,7 @@ input{
     align-items: center;
 
     width: 710px;
-    height: 433px;
+    height: max-content;
     margin-top: 32px;
     margin-bottom: 50px;
 
@@ -100,11 +119,13 @@ input{
     line-height: 50px;
     margin-top: 20px;
 
+    margin-bottom: 50px;
+
 }
 
 .espaco1{
     display: flex;
-    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .quadrado1{
@@ -112,6 +133,8 @@ input{
     width: 18.41px;
     height: 20.72px;
     background-color: #DBA2EA;
+
+    text-align: center;
 }
 
 .escrita1{
@@ -122,6 +145,8 @@ input{
     border-radius: 5px;
 
     margin-left: 10px;
+
+    text-transform: uppercase;
 
 }
 
